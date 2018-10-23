@@ -2,5 +2,5 @@
 
 | Name              | Phone Number  | Email Address     
 | -------------     | ------------- | -------------     
-| Josh Dzielak      | 773-540-5264  | josh@algolia.com  
+| Jessica West      |+1 303-653-7996| jessica@algolia.com  
 | Tim Carry         |               | tim@algolia.com
